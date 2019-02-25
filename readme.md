@@ -1,8 +1,8 @@
 # 3D text
 with CSS 
 
-A simple syntax to create beautiful 3D effects for your text.<br> 
-
+A simple syntax to create beautiful 3D effects for your text.<br>
+Very simple to edit and add it in your code.<br>
 For any other info please do not hesitate to write to me...<br> 
 info@bearddeveloper.it <br>
 www.bearddeveloper.it <br>
